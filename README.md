@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/835991945.svg)](https://zenodo.org/doi/10.5281/zenodo.13158127)
+
 # HERV_utilities
 Utilities for HERV proteogenomic pipeline
 
